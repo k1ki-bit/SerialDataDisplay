@@ -108,7 +108,4 @@ UI线程与工作线程分离
 Windows操作系统
 
 ## 运行演示
-
-观看演示视频：
-[![运行演示](https://img.shields.io/badge/视频-演示-blue.svg)]((https://github.com/k1ki-bit/SerialDataDisplay/blob/master/SDP.mp4))
-
+<video src="(https://github.com/k1ki-bit/SerialDataDisplay/blob/master/SDP.mp4)" controls width="100%"></video>
