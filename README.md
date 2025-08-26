@@ -108,4 +108,5 @@ UI线程与工作线程分离
 Windows操作系统
 
 ## 运行演示
+SDP.mp4
 <video src="(https://github.com/k1ki-bit/SerialDataDisplay/blob/master/SDP.mp4)" controls width="100%"></video>
