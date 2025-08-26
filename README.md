@@ -106,3 +106,9 @@ UI线程与工作线程分离
 .NET Framework 4.0或更高版本
 可用的串口设备
 Windows操作系统
+
+## 运行演示
+
+观看演示视频：
+[![运行演示](https://img.shields.io/badge/视频-演示-blue.svg)](https://github.com/你的用户名/你的仓库名/raw/master/SDP.mp4)
+
