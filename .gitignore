@@ -1,0 +1,26 @@
+# Visual Studio 文件和文件夹
+.vs/
+*.vcxproj.user
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.sln.iml
+
+# 编译生成的文件
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.log
+*.exe
+*.lib
+*.dll
+*.cache
+
+# 其他可能生成的文件
+bin/
+obj/
